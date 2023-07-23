@@ -1,0 +1,166 @@
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\appsettings.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.exe
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.deps.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.runtimeconfig.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.pdb
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\02 - Business Model Layer.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\03 - Business Logic Layer.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\03 - Business Logic Layer.pdb
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\02 - Business Model Layer.pdb
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.csproj.AssemblyReference.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.AssemblyInfoInputs.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.AssemblyInfo.cs
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.csproj.CoreCompileInputs.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets\msbuild.04 - REST API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets\msbuild.build.04 - REST API.props
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.04 - REST API.props
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.04 - REST API.props
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\scopedcss\bundle\04 - REST API.styles.css
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.csproj.CopyComplete
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\refint\04 - REST API.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.pdb
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.genruntimeconfig.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\ref\04 - REST API.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Newtonsoft.Json.Schema.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.csproj.AssemblyReference.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.AssemblyInfoInputs.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.AssemblyInfo.cs
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.csproj.CoreCompileInputs.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\refint\04 - REST API.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.pdb
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\appsettings.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.exe
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.deps.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.runtimeconfig.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\04 - REST API.pdb
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Newtonsoft.Json.Schema.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\02 - Business Model Layer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\03 - Business Logic Layer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\03 - Business Logic Layer.pdb
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\02 - Business Model Layer.pdb
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets\msbuild.04 - REST API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets\msbuild.build.04 - REST API.props
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.04 - REST API.props
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.04 - REST API.props
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\scopedcss\bundle\04 - REST API.styles.css
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.csproj.CopyComplete
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\04 - REST API.genruntimeconfig.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\obj\Debug\net7.0\ref\04 - REST API.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\Moq.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\xunit.core.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\04 - REST API\bin\Debug\net7.0\xunit.execution.dotnet.dll

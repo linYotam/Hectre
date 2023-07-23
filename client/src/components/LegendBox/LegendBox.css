@@ -1,0 +1,17 @@
+.legend {
+  margin-right: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-family: 'Lato';
+  font-weight: 600;
+  font-size: 1.6rem;
+  gap: 3rem;
+}
+
+.legend-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}

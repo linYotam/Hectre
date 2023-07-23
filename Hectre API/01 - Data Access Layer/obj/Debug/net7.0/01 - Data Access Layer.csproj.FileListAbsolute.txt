@@ -1,0 +1,30 @@
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.deps.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.runtimeconfig.json
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.AssemblyInfoInputs.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.AssemblyInfo.cs
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\EFCorePluralizer.cs
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\refint\01 - Data Access Layer.dll
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.genruntimeconfig.cache
+C:\Users\Yotam\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\ref\01 - Data Access Layer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.AssemblyInfoInputs.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.AssemblyInfo.cs
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\EFCorePluralizer.cs
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\refint\01 - Data Access Layer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.deps.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.runtimeconfig.json
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.dll
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\bin\Debug\net7.0\01 - Data Access Layer.pdb
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\01 - Data Access Layer.genruntimeconfig.cache
+C:\Users\linyo\OneDrive\Desktop\hectre-demo\Hectre API\01 - Data Access Layer\obj\Debug\net7.0\ref\01 - Data Access Layer.dll

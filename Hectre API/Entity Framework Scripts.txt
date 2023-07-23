@@ -1,0 +1,8 @@
+Terminal --> DAL Layer:
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Bricelam.EntityFrameworkCore.Pluralizer
+
+NuGet Package Manager Console:
+Scaffold-DbContext -Connection "Server=DESKTOP-5A98KU6\SQLEXPRESS;Database=Hectre;Trusted_Connection=True;TrustServerCertificate=True" -Provider Microsoft.EntityFrameworkCore.SqlServer -Tables Orchards, Harvests, Timesheets
+

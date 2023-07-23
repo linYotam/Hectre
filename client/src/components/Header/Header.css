@@ -1,0 +1,40 @@
+.header {
+  position: relative;
+  width: 100vw;
+  height: 6.4rem;
+  background-color: #fff;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.logo {
+  position: absolute;
+  width: 10rem;
+  height: 3rem;
+  top: 1.7rem;
+  left: 4rem;
+}
+
+.btn-logout {
+  border-radius: 20px;
+  border: 1px solid #ff4b2b;
+  background-color: #ff4b2b;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0.8rem 1.2rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: transform 80ms ease-in;
+  cursor: pointer;
+  margin-right: 3rem;
+}
+
+.btn-logout:active {
+  transform: scale(0.95);
+}
+
+.btn-logout:focus {
+  outline: none;
+}
